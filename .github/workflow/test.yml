@@ -1,5 +1,6 @@
 name: Test Python package
 
+# added line
 on:
   push:
     branches:
